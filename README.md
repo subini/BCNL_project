@@ -1,8 +1,8 @@
-/********************************************
-* Project : BCNL                            *
-* Author  : Subin                           *
-* Contributor : Jonghwi                     *
-********************************************/
+
+# Project : BCNL
+Author  : Subin
+Contributor : Jonghwi
+
 
 This is BCNL Project.
 
